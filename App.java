@@ -4,5 +4,6 @@ public class App {
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Computer Science");
         System.out.println("Programming is fun");
+        System.out.println("Newline for test");
     }
 }
